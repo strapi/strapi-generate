@@ -1,53 +1,11 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "strapi-generate@~1.5.0",
-        "scope": null,
-        "escapedName": "strapi-generate",
-        "name": "strapi-generate",
-        "rawSpec": "~1.5.0",
-        "spec": ">=1.5.0 <1.6.0",
-        "type": "range"
-      },
-      "/Users/pierreburgy/Repositories/strapi"
-    ]
-  ],
-  "_from": "strapi-generate@>=1.5.0 <1.6.0",
-  "_id": "strapi-generate@1.5.0",
-  "_inCache": true,
-  "_location": "/strapi-generate",
-  "_nodeVersion": "5.2.0",
-  "_npmUser": {
-    "name": "wistityhq",
-    "email": "hack@wistity.co"
-  },
-  "_npmVersion": "3.3.12",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "strapi-generate@~1.5.0",
-    "scope": null,
-    "escapedName": "strapi-generate",
-    "name": "strapi-generate",
-    "rawSpec": "~1.5.0",
-    "spec": ">=1.5.0 <1.6.0",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/strapi-generate/-/strapi-generate-1.5.0.tgz",
-  "_shasum": "76703990074a5ac35951375c652e760848881ff2",
-  "_shrinkwrap": null,
-  "_spec": "strapi-generate@~1.5.0",
-  "_where": "/Users/pierreburgy/Repositories/strapi",
   "author": {
-    "name": "Wistity team",
-    "email": "hack@wistity.co",
-    "url": "http://wistity.co"
+    "email": "hi@strapi.io",
+    "name": "Strapi team",
+    "url": "http://strapi.io"
   },
   "bugs": {
-    "url": "https://github.com/wistityhq/strapi/issues"
+    "url": "https://github.com/strapi/strapi/issues"
   },
   "dependencies": {
     "async": "~1.5.0",
@@ -64,11 +22,6 @@
   "directories": {
     "lib": "./lib"
   },
-  "dist": {
-    "shasum": "76703990074a5ac35951375c652e760848881ff2",
-    "tarball": "https://registry.npmjs.org/strapi-generate/-/strapi-generate-1.5.0.tgz"
-  },
-  "gitHead": "ff80c2387af0baa05e37143b5022f1cccab6d6e9",
   "homepage": "http://strapi.io",
   "keywords": [
     "generate",
@@ -79,16 +32,16 @@
   "main": "./lib/index.js",
   "maintainers": [
     {
-      "name": "wistityhq",
-      "email": "hack@wistity.co"
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "http://strapi.io"
     }
   ],
   "name": "strapi-generate",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wistityhq/strapi-generate.git"
+    "url": "git://github.com/strapi/strapi-generate.git"
   },
   "scripts": {
     "test": "xo"
