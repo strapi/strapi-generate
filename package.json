@@ -46,7 +46,7 @@
   "scripts": {
     "test": "xo"
   },
-  "version": "1.6.2",
+  "version": "1.6.3",
   "xo": {
     "space": true,
     "esnext": true,
